@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\skell\source\repos\Mandlbrot\Mandlbrot\main.cpp(43,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\skell\source\repos\Mandlbrot\Mandlbrot\main.cpp(79,16): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\skell\source\repos\Mandlbrot\Mandlbrot\main.cpp(93,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\skell\source\repos\Mandlbrot\Mandlbrot\main.cpp(93,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  92 of 95 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    91 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mandlbrot.vcxproj -> C:\Users\skell\source\repos\Mandlbrot\x64\Release\Mandlbrot.exe
